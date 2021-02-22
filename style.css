@@ -1,0 +1,27 @@
+h1{
+    color: darkblue;
+}
+
+h2{
+    color: darkblue;
+}
+
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
+
+.menu{
+    align-self: center;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.item{
+    text-align: center;
+}
